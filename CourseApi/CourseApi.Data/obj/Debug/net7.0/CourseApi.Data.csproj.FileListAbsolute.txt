@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\api\Api2\CourseApi\CourseApi.Data\bin\Debug\net7.0\CourseApi.Data.deps.json
+C:\Users\HP\Desktop\api\Api2\CourseApi\CourseApi.Data\bin\Debug\net7.0\CourseApi.Data.dll
+C:\Users\HP\Desktop\api\Api2\CourseApi\CourseApi.Data\bin\Debug\net7.0\CourseApi.Data.pdb
+C:\Users\HP\Desktop\api\Api2\CourseApi\CourseApi.Data\bin\Debug\net7.0\CourseApi.Core.dll
+C:\Users\HP\Desktop\api\Api2\CourseApi\CourseApi.Data\bin\Debug\net7.0\CourseApi.Core.pdb
+C:\Users\HP\Desktop\api\Api2\CourseApi\CourseApi.Data\obj\Debug\net7.0\CourseApi.Data.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\api\Api2\CourseApi\CourseApi.Data\obj\Debug\net7.0\CourseApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\api\Api2\CourseApi\CourseApi.Data\obj\Debug\net7.0\CourseApi.Data.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\api\Api2\CourseApi\CourseApi.Data\obj\Debug\net7.0\CourseApi.Data.AssemblyInfo.cs
+C:\Users\HP\Desktop\api\Api2\CourseApi\CourseApi.Data\obj\Debug\net7.0\CourseApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\api\Api2\CourseApi\CourseApi.Data\obj\Debug\net7.0\CourseApi.Data.csproj.CopyComplete
+C:\Users\HP\Desktop\api\Api2\CourseApi\CourseApi.Data\obj\Debug\net7.0\CourseApi.Data.dll
+C:\Users\HP\Desktop\api\Api2\CourseApi\CourseApi.Data\obj\Debug\net7.0\refint\CourseApi.Data.dll
+C:\Users\HP\Desktop\api\Api2\CourseApi\CourseApi.Data\obj\Debug\net7.0\CourseApi.Data.pdb
+C:\Users\HP\Desktop\api\Api2\CourseApi\CourseApi.Data\obj\Debug\net7.0\ref\CourseApi.Data.dll

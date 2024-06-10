@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\api\Api2\CourseApi\CourseApi.Core\bin\Debug\net7.0\CourseApi.Core.deps.json
+C:\Users\HP\Desktop\api\Api2\CourseApi\CourseApi.Core\bin\Debug\net7.0\CourseApi.Core.dll
+C:\Users\HP\Desktop\api\Api2\CourseApi\CourseApi.Core\bin\Debug\net7.0\CourseApi.Core.pdb
+C:\Users\HP\Desktop\api\Api2\CourseApi\CourseApi.Core\obj\Debug\net7.0\CourseApi.Core.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\api\Api2\CourseApi\CourseApi.Core\obj\Debug\net7.0\CourseApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\api\Api2\CourseApi\CourseApi.Core\obj\Debug\net7.0\CourseApi.Core.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\api\Api2\CourseApi\CourseApi.Core\obj\Debug\net7.0\CourseApi.Core.AssemblyInfo.cs
+C:\Users\HP\Desktop\api\Api2\CourseApi\CourseApi.Core\obj\Debug\net7.0\CourseApi.Core.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\api\Api2\CourseApi\CourseApi.Core\obj\Debug\net7.0\CourseApi.Core.dll
+C:\Users\HP\Desktop\api\Api2\CourseApi\CourseApi.Core\obj\Debug\net7.0\refint\CourseApi.Core.dll
+C:\Users\HP\Desktop\api\Api2\CourseApi\CourseApi.Core\obj\Debug\net7.0\CourseApi.Core.pdb
+C:\Users\HP\Desktop\api\Api2\CourseApi\CourseApi.Core\obj\Debug\net7.0\ref\CourseApi.Core.dll
